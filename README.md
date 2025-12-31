@@ -3,7 +3,6 @@
 Sara7a Backend API is a Node.js application that provides an anonymous messaging system inspired by the Sara7a concept.
 The project focuses on security, scalability, and clean backend architecture.
 
----
 
 ## Project Overview
 
@@ -15,7 +14,6 @@ The application allows users to:
 - Login using Google OAuth
 - Protect data with multiple security layers
 
----
 
 ## Technologies Used
 
@@ -35,7 +33,6 @@ The application allows users to:
 - Express Rate Limit
 - Morgan
 
----
 
 ## Key Features
 
@@ -52,7 +49,6 @@ The application allows users to:
 - API protection using Helmet, CORS, and Rate Limiting
 - Centralized error handling and logging
 
----
 
 ## Prerequisites
 
@@ -60,8 +56,6 @@ Before running the project, make sure you have:
 - Node.js installed
 - MongoDB installed locally or access to MongoDB Atlas
 - Any code editor (VS Code recommended)
-
----
 
 ## Installation
 
@@ -71,7 +65,6 @@ To run the project locally:
 - Install dependencies using npm install
 - Start the development server using npm run dev
 
----
 
 ## Getting Started
 
@@ -80,7 +73,6 @@ After starting the server:
 - You can test all endpoints using Postman
 - Authentication is required for protected routes
 
----
 
 ## API Endpoints
 
@@ -110,7 +102,6 @@ After starting the server:
 - POST /api/v1/auth/social-login  
   Login using Google OAuth
 
----
 
 ### Users
 
@@ -132,7 +123,6 @@ After starting the server:
 - PATCH /api/v1/user/restore-account  
   Restore frozen account
 
----
 
 ### Messages
 
@@ -142,7 +132,6 @@ After starting the server:
 - GET /api/v1/message/get-message  
   Get received messages
 
----
 
 ## Author
 
