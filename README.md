@@ -1,6 +1,6 @@
-# Sara7a Backend API
+# Sara7a Application
 
-Sara7a Backend API is a Node.js application that provides an anonymous messaging system inspired by the Sara7a concept.
+Sara7a Application is a Node.js application that provides an anonymous messaging system inspired by the Sara7a concept.
 The project focuses on security, scalability, and clean backend architecture.
 
 
